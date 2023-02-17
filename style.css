@@ -1,0 +1,24 @@
+body {
+    width: 300px;
+    background-color: darkslategrey;
+    justify-content: center;
+}
+
+p {
+    margin: 10px;
+    font-size: 22px;
+    color: skyblue;
+    border-radius: 6px;
+    border: 1px solid skyblue;
+    padding: 10px;
+}
+button {
+    margin: 10px;
+    font-size: 22px;
+    color: skyblue;
+    border-radius: 6px;
+    border: 1px solid skyblue;
+    padding: 10px;
+    background-color: darkslategrey;
+    cursor:pointer;
+}
