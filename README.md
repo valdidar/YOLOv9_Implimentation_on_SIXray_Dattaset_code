@@ -17,6 +17,8 @@ The aim of this project was to develop a robust model capable of detecting prohi
 
 The SIXray dataset contains over one million annotated X-ray images, featuring common and rare prohibited items under various occlusion scenarios. For this specific training, only 8312 images (all positive) were used due to the limited computational resources available.
 
+[Link]([https://github.com/WongKinYiu/yolov9](https://universe.roboflow.com/yolov8-b0lk6/sixray-nl2v3)) to costum dataset I uploaded on Roboflow to be used to load dataset on google colab directly.
+
 ## Model Training
 
 The model was trained using specific parameters to optimize detection:
